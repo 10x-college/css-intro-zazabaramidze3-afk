@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AK-am-zN)
 ### დავალება: "Introduction to CSS" - დიზაინის იმპლემენტაცია
 
 **აღწერა:**
@@ -30,7 +31,7 @@
 სასურველია (მაგრამ არასავალდებულო) ნამუშევრის ატვირთვა **GitHub Pages**-ზე, რათა შედეგი ლინკის სახით იყოს ხელმისაწვდომი.
 გითჰაბ ფეიჯების გამოყენების შემთხვევაში ასევე README-ფაილში დაამატეთ ლინკი მოცემულ ადგილას ქვემოთ
 
-ლინკის ადგილი:["ლინკი დაამატე აქ"]
+ლინკის ადგილი:["https://zazabaramidze3-afk.github.io/introductiontocss/"]
 
 ---
 
@@ -41,3 +42,6 @@
 -   [ ] CSS სტილიზაცია ხდება კლასებით.
 -   [ ] არ გვხვდება დუბლირებული ID-ები.
 -   [ ] `README.md` ფაილში ჩანს ნამუშევრის სქრინშოთი.
+
+
+![alt cssintro](<Screen css intro-1.jpg>)
